@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 create new bug
 create new bug two
+=======
+test
+test2
+>>>>>>> parent of 1726e35... fixed Bug
